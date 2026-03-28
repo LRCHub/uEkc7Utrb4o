@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "グッドバイ",
+  "base_artist": "toe",
+  "createdAt": "2026-03-28T08:37:55.746434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "グッドバイ",
+      "artist": "Toe",
+      "has_synced": true,
+      "path": "select/01_グッドバイ_Toe.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロング・グッドバイ",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": true,
+      "path": "select/02_ロング・グッドバイ_9mm_Parabellum_Bullet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good-Bye Boy(グッドバイ・ボーイ)",
+      "artist": "アン・ルイス",
+      "has_synced": false,
+      "path": "select/03_Good-Bye_Boy(グッドバイ・ボーイ)_アン・ルイス.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ディス・イズ・グッドバイ",
+      "artist": "Imminence",
+      "has_synced": true,
+      "path": "select/04_ディス・イズ・グッドバイ_Imminence.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "グッドバイ・サマーブリーズ",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/05_グッドバイ・サマーブリーズ_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "グッドバイ・サマーブリーズ",
+      "artist": "竹内まりや",
+      "has_synced": true,
+      "path": "select/06_グッドバイ・サマーブリーズ_竹内まりや.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "グッドバイ (album version)",
+      "artist": "toe; Toki Asako",
+      "has_synced": false,
+      "path": "select/07_グッドバイ_(album_version)_toe;_Toki_Asako.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "グッドバイ -album version-",
+      "artist": "Toe",
+      "has_synced": true,
+      "path": "select/08_グッドバイ_-album_version-_Toe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "グッドバイ_starRo Remix",
+      "artist": "Toe",
+      "has_synced": true,
+      "path": "select/09_グッドバイ_starRo_Remix_Toe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good-Bye [グッドバイ]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/10_Good-Bye_[グッドバイ]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "グッドバイ",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/11_グッドバイ_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "グッドバイ",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/12_グッドバイ_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハロー・アンド・グッドバイ",
+      "artist": "Junko Yagami",
+      "has_synced": false,
+      "path": "select/13_ハロー・アンド・グッドバイ_Junko_Yagami.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "グッドバイ (album version)",
+      "artist": "toe feat. 土岐麻子",
+      "has_synced": false,
+      "path": "select/14_グッドバイ_(album_version)_toe_feat._土岐麻子.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "グッドバイ (Album version)",
+      "artist": "toe feat․ Toki Asako",
+      "has_synced": false,
+      "path": "select/15_グッドバイ_(Album_version)_toe_feat._Toki_Asako.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "グッドバイ -album version-",
+      "artist": "toe",
+      "has_synced": false,
+      "path": "select/pl_01_グッドバイ_-album_version-_toe.txt"
+    }
+  ]
+}
